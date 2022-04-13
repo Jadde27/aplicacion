@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+	background: #dedede;
+}
+h2{
+	font-family: 'Poppins', sans-serif;
+}
+h5{
+	font-family: 'Poppins', sans-serif;
+}
+.principal {
+	width: 100%;
+}
+.contenedor {
+	width: 295px;
+	height: 600px;
+	border: 1px solid black;
+	margin: 0 auto;
+	background: white;
+}
+.punto {
+	width: 52px;
+	margin: 0 auto;
+	
+}
+
+
