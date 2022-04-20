@@ -17,11 +17,41 @@ h5{
 	border: 1px solid black;
 	margin: 0 auto;
 	background: white;
+	position: relative;
 }
 .punto {
 	width: 52px;
-	margin: 0 auto;
 	
 }
 
+.flecha {
+	top: 30px;
+    left: 49px;
+}
+.boton {
+	background: url("Ellipse 21.png");
+	width: 60px;
+    height: 57px;
+    border: 0;
+    top: 426px;
+    right: 36px;
+    position: absolute;
+}
 
+
+}
+.circulo1 {
+	position: absolute;
+	top: 445px;
+    left: 116px;
+}
+.circulo2 {
+	position: absolute;
+	top: 445px;
+    left: 97px;
+}
+.linea {
+	position: absolute;
+	top: 445px;
+    left: 136px;
+}
